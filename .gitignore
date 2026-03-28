@@ -1,6 +1,6 @@
 # Binaries
 *.c
-*.pyc
+*.so
 __pycache__/
 build/
 dist/
